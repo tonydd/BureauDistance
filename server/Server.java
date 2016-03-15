@@ -3,12 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package rcplib;
+package server;
 
 /**
  *
  * @author Tony
  */
-public class Client {
-    //Sisi la famille
+public class Server {
+    
 }

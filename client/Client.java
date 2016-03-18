@@ -7,7 +7,7 @@ package client;
 
 /**
  *
- * @author kermit
+ * @author Thomas STOCKER
  */
 public class Client {
     

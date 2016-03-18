@@ -5,6 +5,9 @@
  */
 package bureaudistance;
 
+import client.ScreenScanner;
+import client.TranslucentWindowDemo;
+
 /**
  *
  * @author Tony
@@ -16,6 +19,8 @@ public class BureauDistance {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        ScreenScanner s = new ScreenScanner();
+        //TranslucentWindowDemo c = new TranslucentWindowDemo();
     }
     
 }
